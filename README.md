@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full-stack+Developer;AI+Enthusiast;Blockchain+Explorer;Product+Builder" alt="Typing SVG" />
 </div>
 
-🌐 Full-stack developer passionate about AI, blockchain, and building innovative products.
+🌐 Full-stack developer passionate about AI, blockchain, and building innovative products. Constantly exploring new technologies and expanding my knowledge.
 
 💡 I enjoy creating products that make people's lives easier and more enjoyable.
 
