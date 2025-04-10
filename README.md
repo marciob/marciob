@@ -102,4 +102,4 @@
 
 ---
 
-> 🧠 Philosophy: I believe software is one of the purest forms of creativity, and I'm always looking for ways to make it better.
+> 🚀 Vision: I believe software is one of the purest forms of creativity, and I'm always looking for ways to make it better.
