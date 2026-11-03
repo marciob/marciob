@@ -2,8 +2,6 @@
 
 AI engineer and full-stack developer. I build AI agents and the parts around them: the agent loop, its tools and its context. I also build the product around it, with Python, TypeScript, Next.js and PostgreSQL.
 
-Remote from Brazil (UTC-3).
-
 ## Tools for AI coding agents
 
 Open-source tools for Claude Code, Codex, OpenCode and OpenClaw.
@@ -21,7 +19,13 @@ Small plugins:
 
 ## Stack
 
-Python · TypeScript · FastAPI · Next.js · Node.js · PostgreSQL · MCP
+- **AI agents:** harness design, context engineering, tool calling, MCP servers that give agents safe access to real systems, multi-agent orchestration, Claude Code and Codex skills
+- **LLMs:** OpenAI, Claude, Gemini, model routing, structured outputs, RAG, vision models
+- **Smart contracts:** Solidity, Hardhat, Ethers.js, Web3.js, ZK proofs (Semaphore), IPFS, The Graph, EVM L2s
+- **Languages:** Python, TypeScript, Node.js, Rust, Solidity
+- **Backend:** FastAPI, PostgreSQL (Neon, Supabase), Drizzle, Prisma, Redis, MongoDB, REST, WebSockets
+- **Frontend:** React, Next.js, Tailwind CSS, shadcn/ui
+- **Infra:** Docker, AWS Lambda, Vercel, Railway, GitHub Actions
 
 ## Contact
 
