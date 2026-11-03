@@ -8,6 +8,17 @@
 
 💡 I enjoy creating products that make people's lives easier and more enjoyable.
 
+## 🧰 Tools for AI coding agents
+
+Open-source tools for AI agents: Claude Code, Codex, OpenCode and OpenClaw.
+
+- **[openclaw-voice-commands](https://github.com/marciob/openclaw-voice-commands)**: talk to your OpenClaw AI agent through Siri, over a secure HTTP bridge.
+- **[skill-research-papers](https://github.com/marciob/skill-research-papers)**: an agent skill that searches arXiv, PubMed, OpenAlex, Semantic Scholar and more, for Claude Code and Codex.
+- **[openmsg](https://github.com/marciob/openmsg)** [![npm](https://img.shields.io/npm/v/openmsg?style=flat-square)](https://www.npmjs.com/package/openmsg): lets Claude Code, Codex and OpenCode sessions send messages to each other while they run.
+- **[youtube-research](https://github.com/marciob/youtube-research)**: a Claude Code skill that researches a topic from YouTube transcripts and cites the timestamps.
+- **[claude-pure](https://github.com/marciob/claude-pure)**: starts Claude Code with only the context you pick, and shows the token cost of each part.
+- Small plugins: **[agenttab](https://github.com/marciob/agenttab)** (terminal tab titles with the agent state, for Claude Code, Codex and OpenCode) and **[waitwise](https://github.com/marciob/waitwise)** (your own text in the Claude Code spinner).
+
 ## 🛠 Tech Stack
 
 ### 🎨 Frontend
