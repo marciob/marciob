@@ -18,6 +18,7 @@ Small plugins:
 
 - **[agenttab](https://github.com/marciob/agenttab)**: the terminal tab shows if the agent works, waits for you, or needs your permission. For Claude Code, Codex and OpenCode.
 - **[waitwise](https://github.com/marciob/waitwise)**: changes the words that Claude Code shows while it works to text that you choose.
+
 ## Stack
 
 Python · TypeScript · FastAPI · Next.js · Node.js · PostgreSQL · MCP
